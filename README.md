@@ -1,5 +1,7 @@
 Time-series Financial Modeling via GANs
+
 Reference : https://github.com/stakahashy/fingan 
+
 Plotting the losses
 ![image](https://github.com/LeiWangUog/Modeling-financial-time-series-GAN/assets/158491057/01102d45-e12d-404e-b752-a5df104c3134)
 
