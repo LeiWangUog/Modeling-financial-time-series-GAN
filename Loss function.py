@@ -2,7 +2,7 @@ import torch.nn as nn
 from torch import optim
 from torch.utils.data import DataLoader, TensorDataset
 
-# 检查是否有可用的GPU，如果有，使用第一个GPU
+
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(f'Using device: {device}')
 
